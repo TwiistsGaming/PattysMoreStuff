@@ -1,0 +1,300 @@
+==================
+Change Log 1.2.8.3
+==================
+*Fixed recipes
+--Added angle block (Makes it easier to build in midair as it can be placed anywhere without requiring a backing block)
+==================
+Change Log 1.2.8.2
+==================
+*Fixed lumber axes not working
+*Fixed all tools including the nether star tools to allow enchantments :)
+--Removed Time and weather wands due to not working
+--Re-Enabled the blocks
+================
+Change Log 1.2.8
+================
+*Fixed honey and honeycomb name
+--Updated to 1.16.1
+--Currently crates, end ores, fertilized dirt and wild crop have been removed in this version ill work on getting them back in soon
+================
+Change Log 1.2.7
+================
+--Made nether star tools and armor enchantable
+--Fixed bug that kicked client from server
+--Re-added crushers
+================
+Change Log 1.2.6
+================
+*Fixed Glowstone brick recipe
+*Fixed Magnet not working properly
+--Removed crushers due to bug which caused the mod to crash on server side
+================
+Change Log 1.2.5
+================
+*Fixed bug with reinforced blocks
+--Added Backpacks (All 16 colors)
+--Added Particle effect to the glowing air block while holding the illumination wand
+--Added Durability to all the wands
+--Added Fertilized dirt
+--Added Iron, Gold, Diamond, Emerald, Obsidian & Ultimate crushers
+--Added Honey & Honeycomb stairs
+--Added Wild Crop with option to disable it in the config
+--Added Config option to disable all the ores
+================
+Change Log 1.2.4
+================
+Updated to 1.15.2
+Fixed bacon & egg name
+================
+Change Log 1.2.3
+================
+--Fixed Buttons Not Placing Right
+--Added Charcoal Block
+--Added Gunpowder Block
+--Added Bacon And Egg
+--Added Colored Glowstone
+--Added Colored Bricks
+--Added Colored Lamps
+--Added Dye Ore Now Spawns In The End
+--Added Ender Pearl Ore Now Spawns In The End
+--Added Crusher Back In
+--Added Blue And White Dye Blocks
+--You now need to use the crusher to get the dyes from the blocks so the recipe does not override with the buttons
+================
+Change Log 1.2.2
+================
+--Fixed Bug where the game would crash when putting items in crates using hoppers
+--Added Excavators (Mines a 3x3) Thanks for the suggestion @honeyybees
+--Added Blaze Block
+--Added Config to pretty much disable everything apart from the obsidian ingot & chunk
+--Infinite Lava bucket is now disabled by default
+================
+Change Log 1.2.1
+================
+--Fixed Furnaces not dropping when broken
+--Added Bamboo stairs
+--Added Bamboo Slab
+--Added Kitchen floor
+--Added Slabs for dye, stonebrick, concrete, wool & terracotta
+--Added Walls for dye, stonebrick, concrete, wool & terracotta
+--Added Lumber Axes
+--Added Asphalt Slab & Stairs
+--Added Wrench
+--Added Magnet
+--Added Ring of flight
+--Added Sweet Berrie Pie
+================
+Change Log 1.2.0
+================
+--Fixed bug where the mod crashes the server
+================
+Change Log 1.1.9
+================
+--Updated to 1.14.4
+--Removed crusher, dusts and wrench
+--Added Bamboo Block
+--Added Mining Helmet
+================
+Change Log 1.1.8
+================
+--Fixed: Magma Leggings Not Equipping in the right slot
+--Fixed Some Recipes For Blocks That Where Missing Them
+--Changed: Dye Block Recipes
+--Changed: Obsidian Ingot Recipe. Now Requires You To Smelt Obsidian Chunk
+--Added Scythes For All Tool Types
+--Added Hammer For All Material Types (Mines a 3x3)
+--Added Carrot & Chocolate Cake
+--Added Wrench To Rotate Blocks
+--Added Fences And Fence Gates For Concrete, Hardened Clay, Wool & Stonebrick
+--Added Asphalt
+--Added Iron, Gold, Diamond, Emerald & Obsidian Dust
+--Added Crusher
+--Added Obsidian Chunk
+================
+Change Log 1.1.7
+================
+--Fixed Crates Not Being Able To Open With Another Crate/Block On Top
+
+================
+Change Log 1.1.6
+================
+--Fixed Reinforced Obsidian Recipe
+--Added Dye fences and fence gates
+
+================
+Change Log 1.1.5
+================
+--Removed Kitchen draws, cupboard and corner
+--Removed StuffTheChicken And RedBullSlurplie Entitys
+--Changed drop method for the dye ore. Thanks to @SquidDev
+--Changed ceiling light model and now it places based on direction the player is facing
+--Added All 16 colours for the lanterns and ceiling lights
+
+================
+Change Log 1.1.4
+================
+--Added Kitchen draws, kitchen cabinet and kitchen corner
+--Added Nether Star Block
+--Added Config option to disable the entity's
+
+================
+Change Log 1.1.3
+================
+--Added Loads of stairs
+--Added Fire Aspect to all magma cream tools
+--Changed The amount of stairs per recipe from 1 to 4
+--Changed  Tweaked tool and armor materials & Uses for some of them
+--Removed tools & armor For Snow, Clay, Flint, Leather, Slime, Dye & Gunpowder
+
+================
+Change Log 1.1.2
+================
+Fixed the iron bow name
+
+================
+Change Log 1.1.1
+================
+--Added Bows For All Materials Except Dyes
+--Added Lantern
+--Added Ceiling Light
+--Added Creative Flight To Nether Star Armor
+--Changed Nether Star Stuff To Be Unbreakable
+
+This version supports 1.12, 1.12.1, & 1.12.2
+
+================
+Change Log 1.1.0
+================
+--Added All Wood & Dye Colored Buttons
+--Added Options To Disable Tools, Armor, Blocks, Food And Other
+--Fixed All Names Not Working
+
+================
+Change Log 1.0.9
+================
+--Added Ender Pearl Block
+--Added Ender Brick
+--Added Apple, Melon, Beetroot, Pumpkin & Carrot Slushie
+--Added Apple, Melon, Beetroot, Pumpkin & Carrot Smoothie
+--Added Obsidian Furnace
+--Added Ultimate Furnace
+--Changed Armor Textures
+--Changed Diamond Furnace Recipe
+
+================
+Change Log 1.0.8
+================
+--Updated too 1.12.1
+--Added too entitys (StuffTheChicken & RedBullSlurpie)
+--Added Rebull
+--Added Chicken Wing
+--Added Chicken Wing Cooked
+--Re-Added dye blocks and colored stonebrick + all matching stairs
+--Re-Added Polished stone
+--Re-Added Flour
+--Re-Added Infinite lave bucket (creative only)
+--Re-Added Blender
+--Re-Added Milk bottle, Chocolate milk bottle
+--Re-Added Apple, Melon, Beetroot, Pumpkin & Carrot juice. Requires you to right click the blender with the item i.e apple in your hand to get apple juice
+--Re-Added Knife
+--Re-Added Fruit Salad
+--Re-Added Toast
+--Re-Added Illumination wand & glow block
+
+This also works For 1.12 aswell
+
+
+================
+Change Log 1.0.7
+================
+--Updated too 1.12
+--Removed dye blocks and colored stonebrick + all matching slabs, fences, fence gates & stairs
+--Removed Polished stone
+--Removed Milk bottle, Chocolate milk bottle
+--Removed Flour
+--Removed Infinite lave bucket (creative only)
+--Removed Blender
+--Removed Apple, Melon, Beetroot, Pumpkin & Carrot juice
+--Removed Knife
+--Removed Fruit Salad
+--Removed Toast
+--Removed Illumination wand & glow block
+--Removed Iron, Gold, Diamond apples
+--Added concrete stairs
+
+================
+Change Log 1.0.6
+================
+--Tweaked the configuration file.
+--Added Polished stone
+--Added Milk bottle, Chocolate milk bottle
+--Added Flour
+--Changed Bread recipe. You now need to smelt flour to obtain bread
+--Added Infinite lave bucket (creative only)
+--Added Blender
+--Added Apple, Melon, Beetroot, Pumpkin & Carrot juice
+--Added Knife
+--Added Fruit Salad
+--Added Toast
+
+================
+Change Log 1.0.5
+================
+--Removed baubles integration (i.e Amulets/ flying ring)
+
+================
+Change Log 1.0.4
+================
+--Removed plank bricks & plank brick stairs
+--The time wand now has a GUI
+--Removed time wand durability
+--Added config option to disable furnaces
+--Added Apple Pie
+--Added Sausage Raw
+--Added Sausage Cooked
+--Added Baguette Sausage
+--Added Baguette Sausage & Egg
+--Added Baguette Sausage & Bacon
+--Added Baguette Sausage, Bacon & Egg
+--Added Ender Pearl ore now spawns in the end and nether
+--Added Dye fences
+--Added Dye fence gates
+--Added Dye stone brick fences
+--Added Dye stone brick fence gates
+--Added Illumination wand (Places Invisible Block)
+
+================
+Change Log 1.0.3
+================
+--Removed the information book.
+--Changed the reinforced glass textures & recipe.
+--This mod now has integration with Azanor’s Baubles. but it is not required to progress in the mod. However, I recommend you add it.
+--Added Amulet of the Wind - Gives you Speed
+--Added Amulet of the Earth - Give you Haste
+--Added Amulet of Strength - Gives you Strength
+--Added Amulet of Leaping - Gives you Jump Boost
+--Added Amulet of Healing - Gives you Regeneration
+--Added Ironskin Amulet - Gives you Resistance
+--Added Amulet of the Blaze - Gives you Fire Resistance
+--Added Amulet of the Ocean - Gives you Water Breathing
+--Added Amulet of the Night - Gives you Night Vision
+--Added Ring of Flight - Gives you Flight
+
+================
+Change Log 1.0.2
+================
+--Added oak, spruce, birch, jungle, acacia & dark oak plank bricks recipes
+--Added iron, diamond & emerald apple recipes
+--Added Dyes slabs
+--Added Dye stonebrick slabs
+--Adeded Reinforced obsidian
+--Added Reinforced glass
+
+================
+Change Log 1.0.1
+================
+--Added Informaton book
+
+================
+Change Log 1.0.0
+================
